@@ -24,5 +24,5 @@
 <li>Express
 <li>Handlebars
 <li>MVC Design pattern
-<li>CSS3
+<li>CSS3/ jQuery/ JavaScript
 <li>Deployed in Heroku
